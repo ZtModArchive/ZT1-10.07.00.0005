@@ -1,0 +1,1878 @@
+BFLOG : ***** Blue Fang Application Logfile *****
+BFLOG : ***** Log Severity = 9  Delta1 = 0
+BFLOG : ***** Date: 05/13 Time: 16:01
+BFLOG : *****************************************
+E:\Zoo\src\bf\bfwindow.cpp(177) : NOTE  : BFWindowInfo::registerClass
+E:\Zoo\src\bf\bfwindow.cpp(177) : NOTE  : BFWindowInfo::registerClass
+E:\Zoo\src\bf\bfwindow.cpp(232) : NOTE  : BFWindowInfo::createWindow
+E:\Zoo\src\bf\bfwindow.cpp(232) : NOTE  : BFWindowInfo::createWindow
+E:\Zoo\src\gx\gxvidman.cpp(203) : NOTE  : GXVidMan::createDirectDraw - Created.
+E:\Zoo\src\gx\gxvidman.cpp(48) : NOTE  : GXVidMan::initialize - Initialization successful.
+E:\Zoo\src\gx\gxvidman.cpp(251) : NOTE  : GXVidMan::setupFullscreen - Surfaces created.
+E:\Zoo\src\gx\gxvidman.cpp(82) : NOTE  : GXVidMan::start - Now in fullscreen mode.
+E:\Zoo\src\snd\dx8sndmgr.cpp(82) : NOTE  : succeeded at createDirectSound
+E:\Zoo\src\bf\bfresmgr.cpp(102) : NOTE  : BFResourceMgr::Adding path: .
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./ai.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./ai.zip (7 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./animals.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./animals.zip (20878 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./animals2.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./animals2.zip (358 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./config.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./config.zip (17 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./fences.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./fences.zip (96 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./fringe.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./fringe.zip (11 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./global.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./global.zip (3271 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./guests.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./guests.zip (43 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./items.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./items.zip (22 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./objects.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./objects.zip (619 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./paths.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./paths.zip (6 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./research.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./research.zip (26 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./scenario.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./scenario.zip (135 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./scenery.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./scenery.zip (163 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./staff.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./staff.zip (30 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./terrain.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./terrain.zip (32 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./tiles.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./tiles.zip (53 entries)
+E:\Zoo\src\bf\bfresmgr.cpp(114) : NOTE  : BFResourceMgr::Adding zip: ./ui.zip
+E:\Zoo\src\bf\bfreszip.cpp(157) : NOTE  : BFResourceZip::read: ./ui.zip (1494 entries)
+E:\Zoo\src\zt\zt.cpp(237) : NOTE  : BFAIMgr::instantiate in 3 ms.
+E:\Zoo\src\zt\zt.cpp(240) : NOTE  : BFScenarioMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\ztadvterrainmgr.cpp(65) : NOTE  : ZTAdvTerrainMgr::create - Called.
+E:\Zoo\src\zt\zt.cpp(247) : NOTE  : BFTerrainMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\ztadvterrainmgr.cpp(208) : NOTE  : ZTAdvTerrainMgr::startD3D - Starting up.
+E:\Zoo\src\zt\ztadvterrainmgr.cpp(240) : NOTE  : ZTAdvTerrainMgr::startD3D - Started up successfully.
+E:\Zoo\src\zt\ztadvterrainmgr.cpp(327) : NOTE  : ZTAdvTerrainMgr::setupRender - Setting up render environment.
+E:\Zoo\src\zt\ztadvterrainmgr.cpp(432) : NOTE  : ZTAdvTerrainMgr::setupRender - Success.
+E:\Zoo\src\zt\zt.cpp(253) : NOTE  : BFTerrainMgr::start in 96 ms.
+E:\Zoo\src\zt\zt.cpp(257) : NOTE  : ZTHabitatMgr::instantiate in 1 ms.
+E:\Zoo\src\zt\zt.cpp(260) : NOTE  : ZTMegatileMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\zt.cpp(263) : NOTE  : ZTThoughtMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\zt.cpp(266) : NOTE  : BFWorldMgr::instantiate in 18 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(38) : NOTE  : ZTItem::loadTypeMembers in 1 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(41) : NOTE  : ZTFoodType::loadTypeMembers in 2 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(44) : NOTE  : ZTPathType::loadTypeMembers in 0 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(47) : NOTE  : ZTFenceType::loadTypeMembers in 22 ms.
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 0 = bathroom
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 1 = building
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 2 = compost
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 3 = drink
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 4 = eat
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 5 = energy
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 6 = familybathroom
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 7 = food
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 8 = fun
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 9 = gift
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 10 = trash
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 11 = animalrest
+E:\Zoo\src\zt\ztbuildingtype.cpp(284) : NOTE  : need 12 = animalsex
+E:\Zoo\src\zt\ztworldmgr.cpp(50) : NOTE  : ZTBuildingType::loadTypeMembers in 25 ms.
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (afrbuf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (anteater y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (arcwolf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (bighorn y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (bison y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (blackbr y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (blacklep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (brhino y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (cheetah y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (chimp y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (cloulep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (dromcaml y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (elephant y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (emppeng y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (flamingo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gazelle y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gemsbok y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (giraffe y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gorilla y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (graywolf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (grizzly y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (hippo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (hyena y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (ibex y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (kangaroo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (leopard y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (lion m)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (lion y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (markhor y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (moose y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (okapi y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (panda y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (polarbr y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (snowlep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (stiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (tiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (warthog y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (wildebst y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (wtiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (zebra y)
+E:\Zoo\src\zt\ztworldmgr.cpp(53) : NOTE  : ZTAnimalType::loadTypeMembers in 625 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(56) : NOTE  : ZTGuestType::loadTypeMembers in 14 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(59) : NOTE  : ZTSceneryType::loadTypeMembers in 20 ms.
+E:\Zoo\src\zt\ztworldmgr.cpp(62) : NOTE  : ZTStaffType::loadTypeMembers in 8 ms.
+E:\Zoo\src\zt\zt.cpp(269) : NOTE  : BFWorldMgr loadTypes in 717 ms.
+E:\Zoo\src\zt\zt.cpp(272) : NOTE  : BFScriptMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\zt.cpp(275) : NOTE  : UICallbackMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\zt.cpp(278) : NOTE  : BFUIMgr::instantiate in 0 ms.
+E:\Zoo\src\zt\zt.cpp(281) : NOTE  : ZTResearchMgr::instantiate in 1 ms.
+E:\Zoo\src\zt\zt.cpp(288) : NOTE  : UICallbackMgr start in 0 ms.
+E:\Zoo\src\zt\zt.cpp(291) : NOTE  : UICallbackMgr start in 0 ms.
+E:\Zoo\src\zt\zt.cpp(294) : NOTE  : BFUIMgr start in 2 ms.
+E:\Zoo\src\zt\zt.cpp(297) : NOTE  : ZTMapView::initCursors in 1 ms.
+E:\Zoo\src\UI\UIManager.cpp(357) : NOTE  : Loading UI...
+E:\Zoo\src\UI\UIManager.cpp(371) : NOTE  : Loaded UI in 554 ms.
+E:\Zoo\src\zt\zt.cpp(300) : NOTE  : BFUIMgr load ui/gamescrn.lyt in 555 ms.
+E:\Zoo\src\zt\zt.cpp(305) : NOTE  : ZTHabitatMgr createWorldHabitat in 2 ms.
+E:\Zoo\src\zt\zt.cpp(308) : NOTE  : ZTMegatileMgr init in 2 ms.
+E:\Zoo\src\bf\bfscenariomgr.cpp(96) : NOTE  : BFScenarioMgr::loadScenario - Loading (scenario/scn01/scn01.scn)
+E:\Zoo\src\zt\zt.cpp(311) : NOTE  : ZTUI::init in 50 ms.
+E:\Zoo\src\zt\zt.cpp(314) : NOTE  : ZTUI::addCallbacks in 1 ms.
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (afrbuf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (anteater y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (arcwolf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (bighorn y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (bison y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (blackbr y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (blacklep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (brhino y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (cheetah y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (chimp y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (cloulep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (dromcaml y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (elephant y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (emppeng y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (flamingo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gazelle y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gemsbok y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (giraffe y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (gorilla y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (graywolf y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (grizzly y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (hippo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (hyena y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (ibex y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (kangaroo y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (leopard y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (lion m)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (lion y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (markhor y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (moose y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (okapi y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (panda y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (polarbr y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (snowlep y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (stiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (tiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (warthog y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (wildebst y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (wtiger y)
+E:\Zoo\src\zt\ztanimaltype.cpp(625) : NOTE  : Failed to load all animal characteristics for type (zebra y)
+E:\Zoo\src\bf\bfworldmgr.cpp(237) : NOTE  : BFWorldMgr::load -- Loading 410 entities.
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 1 guests have entered this month
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type afrbuf
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 2 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 1 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 3 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 2 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 4 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 3 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 5 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 4 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 6 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 5 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 6 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 7 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 7 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 8 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 8 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 9 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 9 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 10 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 10 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 11 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 12 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 11 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 12 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 13 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 14 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 13 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 15 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 16 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 17 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 18 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 14 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 15 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 19 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 16 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 20 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 17 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 18 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 21 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 19 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 20 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 22 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 21 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 23 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 22 guests have left this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type afrbuf
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type chimp
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 24 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 25 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 23 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 26 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 27 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 24 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 28 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 25 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 29 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 26 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 27 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 30 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 28 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 31 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 29 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 30 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 31 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 32 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 32 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 33 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 33 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 34 guests have entered this month
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 35 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 36 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 34 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 37 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 35 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 38 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 36 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 39 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 37 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 38 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 40 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 39 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 40 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 41 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 41 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 42 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 42 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 43 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 43 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 44 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 44 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 45 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 45 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 46 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(795) : NOTE  : guest left; now 46 guests have left this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 47 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(829) : NOTE  : we had 0 zoo members before the end of the month
+E:\Zoo\src\zt\zoostatus.cpp(835) : NOTE  : 0 zoo members left the rolls (zoo rating was 37)
+E:\Zoo\src\zt\zoostatus.cpp(837) : NOTE  : we now have 0 zoo members
+E:\Zoo\src\zt\zoostatus.cpp(848) : NOTE  : guests added this month: 47
+E:\Zoo\src\zt\zoostatus.cpp(849) : NOTE  : guests left this month: 46
+E:\Zoo\src\zt\zoostatus.cpp(850) : NOTE  : total guests now: 1
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 1 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 2 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 3 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 4 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 5 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 6 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 7 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 8 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 9 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 10 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 11 guests have entered this month
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 12 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 13 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 14 guests have entered this month
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type gazelle
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 15 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 16 guests have entered this month
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type kangaroo
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 17 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 18 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 19 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 20 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 21 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 22 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 23 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 24 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 25 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 26 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 27 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 28 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 29 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 30 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 31 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 32 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 33 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 34 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 35 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 36 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 37 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 38 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 39 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 40 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 41 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 42 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 43 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 1 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 44 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 45 guests have entered this month
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zoostatus.cpp(829) : NOTE  : we had 0 zoo members before the end of the month
+E:\Zoo\src\zt\zoostatus.cpp(835) : NOTE  : 0 zoo members left the rolls (zoo rating was 41)
+E:\Zoo\src\zt\zoostatus.cpp(837) : NOTE  : we now have 0 zoo members
+E:\Zoo\src\zt\zoostatus.cpp(848) : NOTE  : guests added this month: 45
+E:\Zoo\src\zt\zoostatus.cpp(849) : NOTE  : guests left this month: 0
+E:\Zoo\src\zt\zoostatus.cpp(850) : NOTE  : total guests now: 46
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1098) : NOTE  : terrainAboutToBeChanged took 0 ms
+E:\Zoo\src\zt\zthabitatmgr.cpp(1135) : NOTE  : terrainChanged took 0 ms
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type kangaroo
+E:\Zoo\src\zt\ztanimal.cpp(668) : ERROR : Couldn't Initialize Ambient WATER Animations for animals type kangaroo
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 1 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 2 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 3 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 4 guests have entered this month
+E:\Zoo\src\zt\zoostatus.cpp(787) : NOTE  : added guest; now 5 guests have entered this month
+E:\Zoo\src\gx\gxvidman.cpp(398) : NOTE  : GXVidMan::releaseSurfaces - Primary released.
+E:\Zoo\src\gx\gxvidman.cpp(215) : NOTE  : GXVidMan::releaseDirectDraw - Released.
+E:\Zoo\src\gx\gxvidman.cpp(103) : NOTE  : GXVidMan::shutdown - Shutdown successful.
